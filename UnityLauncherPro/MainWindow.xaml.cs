@@ -30,7 +30,7 @@ namespace UnityLauncherPro
 {
     public partial class MainWindow : Window
     {
-        public const string appName = "UnityLauncherPro";
+        public const string appName = "Genesis Unity Launcher";
         public static string currentDateFormat = null;
         public static bool useHumanFriendlyDateFormat = false;
         public static bool searchProjectPathAlso = false;

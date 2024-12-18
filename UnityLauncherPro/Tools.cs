@@ -1069,7 +1069,7 @@ namespace UnityLauncherPro
 
             if (key != null)
             {
-                var appName = "UnityLauncherPro";
+                var appName = "Genesis Unity Hub";
                 key.CreateSubKey(appName);
 
                 key = key.OpenSubKey(appName, true);
@@ -1097,7 +1097,7 @@ namespace UnityLauncherPro
             RegistryKey key = Registry.CurrentUser.OpenSubKey(contextRegRoot, true);
             if (key != null)
             {
-                var appName = "UnityLauncherPro";
+                var appName = "Genesis Unity Hub";
                 RegistryKey appKey = Registry.CurrentUser.OpenSubKey(contextRegRoot + "\\" + appName, false);
                 if (appKey != null)
                 {

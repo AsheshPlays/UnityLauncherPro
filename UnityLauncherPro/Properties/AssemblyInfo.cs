@@ -7,12 +7,12 @@ using System.Windows;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("UnityLauncherPro")]
-[assembly: AssemblyDescription("Unity Hub Alternative")]
+[assembly: AssemblyTitle("GenesisUnityHub")]
+[assembly: AssemblyDescription("A Fork of UnityLauncherPro - Unity Hub Alternative")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("UnityCoder.com")]
-[assembly: AssemblyProduct("UnityLauncherPro")]
-[assembly: AssemblyCopyright("Copyright © 2023")]
+[assembly: AssemblyCompany("ashesh.pro")]
+[assembly: AssemblyProduct("GenesisUnityHub")]
+[assembly: AssemblyCopyright("CopyLeft © 2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
